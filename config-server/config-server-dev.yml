@@ -1,8 +1,0 @@
-server:
-  port: 8764
-eureka:
-  instance:
-    appname: config-server
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:8761/eureka/

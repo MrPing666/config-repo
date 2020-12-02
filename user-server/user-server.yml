@@ -1,5 +1,1 @@
-spring:
-  application:
-    name: user-server
-  profiles:
-    active: dev
+
